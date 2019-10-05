@@ -1,0 +1,46 @@
+{
+    "info_contacts": [
+        {
+            "label": "LinkedIn",
+            "from": "LinkedIn.com",
+            "link": "https://www.linkedin.com/in/matheus-pantoja/"
+        },
+        {
+            "label": "About",
+            "from": "About.me",
+            "link": "https://about.me/matheuspantoja"
+        },
+        {
+            "label": "Style",
+            "from": "Instagram.com",
+            "link": "https://instagram.com/matheuspantoja"
+        },
+        {
+            "label": "Mail",
+            "from": "Gmail.com",
+            "link": "mailto:matheus.pantoja97@gmail.com"
+        }
+    ],
+    "skill_level": [
+        {
+            "skill": "Javascript",
+            "level": 50
+        },
+        {
+            "skill": "C#",
+            "level": 30
+        },
+        {
+            "skill": "Html",
+            "level": 40
+        },
+        {
+            "skill": "Css",
+            "level": 40
+        },
+        {
+            "skill": "Java",
+            "level": 30
+        }
+    ]
+}
